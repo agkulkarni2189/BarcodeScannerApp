@@ -1,0 +1,13 @@
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\bin\Debug\BarcodeScanAppForms.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\bin\Debug\BarcodeScanAppForms.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\bin\Debug\Persistence.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\bin\Debug\Domain.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\bin\Debug\Persistence.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\bin\Debug\Domain.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\obj\Debug\BarcodeScanAppForms.csprojResolveAssemblyReference.cache
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\obj\Debug\BarcodeScanAppForms.BarcodeSearchList.resources
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\obj\Debug\BarcodeScanAppForms.UserControl1.resources
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\obj\Debug\BarcodeScanAppForms.csproj.GenerateResource.Cache
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\obj\Debug\BarcodeScanAppForms.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\obj\Debug\BarcodeScanAppForms.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\BarcodeScanAppForms\obj\Debug\BarcodeScanAppForms.csproj.CoreCompileInputs.cache

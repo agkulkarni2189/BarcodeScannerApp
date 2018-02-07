@@ -1,0 +1,283 @@
+﻿Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Rolling back assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.exe
+   logfile = D:\Aniket2\MSTPLBarcodeReaderUtilityService\MSTPLBarcodeReaderUtilityService\bin\Debug\MSTPLBarcodeReaderUtilityService.InstallLog
+Restoring event log to previous state for source Service1.

@@ -1,0 +1,6 @@
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\bin\Release\Domain.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\bin\Release\Domain.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\obj\Release\Domain.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\obj\Release\Domain.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache

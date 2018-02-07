@@ -1,0 +1,5 @@
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\bin\Debug\Domain.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\bin\Debug\Domain.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\obj\Debug\Domain.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\obj\Debug\Domain.pdb
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache

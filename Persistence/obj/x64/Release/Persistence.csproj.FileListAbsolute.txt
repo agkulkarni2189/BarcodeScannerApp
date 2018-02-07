@@ -1,0 +1,5 @@
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Persistence\bin\x64\Release\Persistence.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Persistence\bin\x64\Release\Domain.dll
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Persistence\obj\x64\Release\Persistence.csprojResolveAssemblyReference.cache
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Persistence\obj\x64\Release\Persistence.csproj.CoreCompileInputs.cache
+D:\Aniket2\MSTPLBarcodeReaderUtilityService\Persistence\obj\x64\Release\Persistence.dll
